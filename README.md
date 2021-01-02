@@ -1,6 +1,6 @@
 # PythonDay
 
-Everyday is for Python
+Everyday is for Python. 2021 new year resolution :)
 
 ## Day
 * Day 1 : Hello World
