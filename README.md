@@ -6,7 +6,8 @@ Everyday is for Python. 2021 new year resolution :)
 * Day 1 : Hello World
 * Day 2 : Tuple
 
-
+## Modules Learn
+* nametuple (Day 2)
 
 ## Reference:
 
