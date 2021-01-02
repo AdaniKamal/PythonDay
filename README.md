@@ -3,8 +3,8 @@
 Everyday is for Python
 
 ## Day
-Day 1 : Hello World
-Day 2 : Tuple
+* Day 1 : Hello World
+* Day 2 : Tuple
 
 
 
