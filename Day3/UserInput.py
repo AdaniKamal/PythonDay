@@ -5,4 +5,4 @@
 #Basic
 #input() function to accept user input
 name = input("What is your name?")
-print("Hello " + name
+print("Hello " + name)
