@@ -10,6 +10,12 @@ Everyday is for Python. 2021 new year resolution :)
 * [Day 3](https://github.com/AdaniKamal/PythonDay/blob/main/Day3/UserInput.py) : User Input
 * [Day 4](https://github.com/AdaniKamal/PythonDay/blob/main/Day4/variable.py) : Variables
 * [Day 5]() : Strings
+* [Day 6]() : 
+* [Day 7]() : 
+* [Day 8]() : 
+* [Day 9]() : 
+* [Day 10]() : 
+* [Day 11]() : 
 
 ### Modules Learn
 * nametuple [Day 2](https://github.com/AdaniKamal/PythonDay/blob/main/Day2/Tuple.py)
