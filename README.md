@@ -22,6 +22,7 @@ Everyday is for Python. 2021 new year resolution :)
 * [Day 15]() :
 * [Day 16]() :
 * [Day 17]() :
+* [Day 18]() :
 
 ### Modules Learn
 * nametuple [Day 2](https://github.com/AdaniKamal/PythonDay/blob/main/Day2/Tuple.py)
